@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [自序](ch0/preface.md)
-    * [个人小传](ch0/assignment.md)
+    * [个人小传-99岁](ch0/assignment.md)
 * [第一讲：写作为什么难](ch1/README.md)
     * [基础任务](ch1/assignment_basic.md)
     * [进阶任务](ch1/assignment_advanced.md)
